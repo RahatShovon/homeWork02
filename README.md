@@ -1,3 +1,3 @@
 # homeWork02
-Live link :
+Live preview :
 https://rahatshovon.github.io/homeWork02/
